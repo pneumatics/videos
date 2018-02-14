@@ -1,2 +1,2 @@
 # videos
-video descriptions and related docs
+Descriptions and related information for published videos
