@@ -1,1 +1,20 @@
 
+റാസ്ബെറി പൈ ഉപയോഗിച്ചുകൊണ്ട് ഞാൻ നടത്തിയ രണ്ടു പരീക്ഷണങ്ങളാണ് ഈ വീഡിയോയിൽ ഞാൻ ഉൾപ്പെടുത്തിയിരിക്കുന്നത്. ആദ്യഭാഗത്തിൽ ഒരു ഡിജിറ്റൽ ഫോട്ടോഫ്രേം എങ്ങിനെ നിർമ്മിച്ചു എന്നു വിവരിക്കുമ്പോൾ രണ്ടാംഭാഗത്തിൽ വിദൂരമായി ഒരു റാസ്ബെറി പൈയെ എങ്ങിനെ നിയന്ത്രിക്കാം എന്ന് വിശദീകരിക്കുന്നു.
+Two experiments/projects I did with my Raspberry Pi. One is a digital photo frame display and other is remote accessing Pi using ssh or VNC
+Runtime: ~19 minutes
+
+ആമുഖം /Introduction 0:03
+ഫോട്ടാഫ്രേം നിർമ്മാണം / photo frame display 3:31
+വിദൂര നിയന്ത്രണം / remote accessing (VNC / SSH)  13:30
+നന്ദി / Sign off 19:13
+
+Software: RealVNC viewer - https://www.realvnc.com/en/connect/download/viewer/
+PuTTY SSH Client for Windows -  https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+Helpful videos:
+DIY Re-use Old LCD Laptop Display - https://youtu.be/yO0OnWQuJOk
+Using an LCD Display with a Motion Detector on Raspberry Pi  - https://youtu.be/dQY6hNA53oM
+
+Code: 
+PIR sensor HDMI on/off
+Autostart gpicview on Raspbian startup
