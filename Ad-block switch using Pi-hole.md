@@ -11,6 +11,5 @@ Runtime ~8 minutes
 
 This project was intended to disable Pi-hole ad-blocking temporarily as the aggressive ad-blocking some times makes browsing unpleasant . Further it was also inspired by the build by Nick Donaldson - https://www.youtube.com/watch?v=3Unz3OAnC6E
 Codes and further details will be shared soon on my github account https://github.com/pneumatics
-I am not a native English speaker (Obviously)
-malayali shrothaakkalum
-kshamikuka 
+I am not a native English speaker (Obviously).
+മലയാളി പ്രേക്ഷകരും ക്ഷമിക്കുക
