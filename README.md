@@ -1,1 +1,1 @@
-This repository contains information related to videos published on Youtube channel pneumatics. Descriptions and related information are included in files corresponding to the video title.
+This repository contains information related to videos published on Youtube channel [pneumatics](https://www.youtube.com/channel/UCvM56_vWOalwPgPQripgfAQ). Descriptions and related information are included in files corresponding to the video title.
